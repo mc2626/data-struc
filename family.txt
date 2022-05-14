@@ -1,5 +1,0 @@
-Mila|18|female|human|0,1,5,6,7
-Zlatko|53|male|human|1,2,3,4,6,7
-Tanja|53|female|human|0,1,3,4,5,6,7
-Eva|24|female|human|1,3,4,5
-Bella|9|female|dog|2,7
